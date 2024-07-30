@@ -14,7 +14,7 @@ Welcome to the Scaler Data Science and Machine Learning Team collaboration repos
 
 ## Introduction
 
-This repository serves as a central hub for the Scaler Data Science and Machine Learning Team. Here, you can find resources, share your work, and collaborate on various projects. Whether you're working on a new machine learning model, data analysis, or any other data science-related task, this is the place to connect with your peers.
+This repository is handled by Scaler Data Science and Machine Learning Team (Batch May24). Here, you can find resources, share your work, and collaborate on various projects. Whether you're working on a new machine learning model, data analysis, or any other data science-related task, this is the place to connect with your peers.
 
 ## Getting Started
 
